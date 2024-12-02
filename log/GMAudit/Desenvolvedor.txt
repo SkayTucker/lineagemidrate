@@ -1,0 +1,87 @@
+20/11/2024 0:48:00>Desenvolvedor>Admin(id: 9300 count: 1 name: Sharpshooter objId: 268439858)>Desenvolvedor>L2Object referencing this action is: no-reference
+20/11/2024 0:48:05>Desenvolvedor>Admin(id: 9301 count: 1 name: Sharpshooter - Guidance objId: 268439859)>Desenvolvedor>L2Object referencing this action is: no-reference
+20/11/2024 0:51:49>Desenvolvedor>Admin(id: 9 count: 1 name: Cedar Staff objId: 268439877)>Desenvolvedor>L2Object referencing this action is: no-reference
+20/11/2024 0:51:53>Desenvolvedor>Admin(id: 9700 count: 1 name: Water Dragon Claw objId: 268439878)>Desenvolvedor>L2Object referencing this action is: no-reference
+20/11/2024 0:51:55>Desenvolvedor>Admin(id: 9701 count: 1 name: Sealed Magic Field Key objId: 268439879)>Desenvolvedor>L2Object referencing this action is: no-reference
+20/11/2024 0:52:38>Desenvolvedor>Admin(id: 9702 count: 1 name: Caravaner's Remedy objId: 268439880)>no-target>L2Object referencing this action is: no-reference
+20/11/2024 0:52:40>Desenvolvedor>Admin(id: 9704 count: 1 name: Gate Key: Records objId: 268439882)>no-target>L2Object referencing this action is: no-reference
+20/11/2024 0:52:42>Desenvolvedor>Admin(id: 9705 count: 1 name: Gate Key: Observation objId: 268439883)>no-target>L2Object referencing this action is: no-reference
+20/11/2024 0:52:44>Desenvolvedor>Admin(id: 9706 count: 1 name: Gate Key: Specula objId: 268439885)>no-target>L2Object referencing this action is: no-reference
+20/11/2024 0:52:45>Desenvolvedor>Admin(id: 9707 count: 1 name: Enuma Elish Key objId: 268439886)>no-target>L2Object referencing this action is: no-reference
+20/11/2024 0:52:46>Desenvolvedor>Admin(id: 9708 count: 1 name: Prahnah Key objId: 268439888)>no-target>L2Object referencing this action is: no-reference
+20/11/2024 0:52:48>Desenvolvedor>Admin(id: 9709 count: 1 name: Gate Key: Arvitaire objId: 268439895)>no-target>L2Object referencing this action is: no-reference
+20/11/2024 0:57:07>Desenvolvedor>Admin(id: 7803 count: 1 name: Black Fat Fish - For Beginners objId: 268439898)>Desenvolvedor>L2Object referencing this action is: no-reference
+20/11/2024 0:57:09>Desenvolvedor>Extract(id: 7803 count: 0 itemObjId: 268439898)>Desenvolvedor>L2Object referencing this action is: Desenvolvedor
+20/11/2024 0:57:18>Desenvolvedor>Admin(id: 7861 count: 1 name: Apella Plate Armor objId: 268439899)>Desenvolvedor>L2Object referencing this action is: no-reference
+20/11/2024 1:04:36>Desenvolvedor>Admin(id: 9700 objId: 268439878 name: Water Dragon Claw count: 1)>no-target>L2Object referencing this action is: no-reference
+20/11/2024 1:04:45>Desenvolvedor>Admin(id: 9700 objId: 268439878 name: Water Dragon Claw count: 1)>no-target>L2Object referencing this action is: no-reference
+20/11/2024 1:09:02>Desenvolvedor>Admin(id: 9701 objId: 268439879 name: Sealed Magic Field Key count: 1)>Desenvolvedor>L2Object referencing this action is: no-reference
+20/11/2024 1:09:03>Desenvolvedor>Admin(id: 9702 objId: 268439880 name: Caravaner's Remedy count: 1)>Desenvolvedor>L2Object referencing this action is: no-reference
+20/11/2024 1:09:06>Desenvolvedor>Admin(id: 9702 objId: 268439880 name: Caravaner's Remedy count: 1)>Desenvolvedor>L2Object referencing this action is: no-reference
+20/11/2024 1:09:07>Desenvolvedor>Admin(id: 9703 count: 1 name: Gate Key: Kamael objId: 268439903)>Desenvolvedor>L2Object referencing this action is: no-reference
+20/11/2024 1:09:10>Desenvolvedor>Admin(id: 9703 objId: 268439903 name: Gate Key: Kamael count: 1)>Desenvolvedor>L2Object referencing this action is: no-reference
+20/11/2024 1:09:11>Desenvolvedor>Admin(id: 9703 objId: 268439903 name: Gate Key: Kamael count: 1)>Desenvolvedor>L2Object referencing this action is: no-reference
+20/11/2024 1:09:12>Desenvolvedor>Admin(id: 9704 objId: 268439882 name: Gate Key: Records count: 1)>Desenvolvedor>L2Object referencing this action is: no-reference
+20/11/2024 1:09:13>Desenvolvedor>Admin(id: 9705 objId: 268439883 name: Gate Key: Observation count: 1)>Desenvolvedor>L2Object referencing this action is: no-reference
+20/11/2024 1:09:14>Desenvolvedor>Admin(id: 9706 objId: 268439885 name: Gate Key: Specula count: 1)>Desenvolvedor>L2Object referencing this action is: no-reference
+20/11/2024 1:09:16>Desenvolvedor>Admin(id: 9705 objId: 268439883 name: Gate Key: Observation count: 1)>Desenvolvedor>L2Object referencing this action is: no-reference
+20/11/2024 1:09:16>Desenvolvedor>Admin(id: 9709 objId: 268439895 name: Gate Key: Arvitaire count: 1)>Desenvolvedor>L2Object referencing this action is: no-reference
+20/11/2024 1:14:10>Desenvolvedor>Admin(id: 9701 objId: 268439879 name: Sealed Magic Field Key count: 1)>Desenvolvedor>L2Object referencing this action is: no-reference
+20/11/2024 1:14:13>Desenvolvedor>Admin(id: 9701 objId: 268439879 name: Sealed Magic Field Key count: 1)>Desenvolvedor>L2Object referencing this action is: no-reference
+20/11/2024 1:14:14>Desenvolvedor>Admin(id: 9701 objId: 268439879 name: Sealed Magic Field Key count: 1)>Desenvolvedor>L2Object referencing this action is: no-reference
+20/11/2024 1:14:15>Desenvolvedor>Admin(id: 9702 objId: 268439880 name: Caravaner's Remedy count: 1)>Desenvolvedor>L2Object referencing this action is: no-reference
+20/11/2024 1:14:16>Desenvolvedor>Admin(id: 9703 objId: 268439903 name: Gate Key: Kamael count: 1)>Desenvolvedor>L2Object referencing this action is: no-reference
+20/11/2024 1:14:18>Desenvolvedor>Admin(id: 9704 objId: 268439882 name: Gate Key: Records count: 1)>Desenvolvedor>L2Object referencing this action is: no-reference
+20/11/2024 1:14:19>Desenvolvedor>Admin(id: 9705 objId: 268439883 name: Gate Key: Observation count: 1)>Desenvolvedor>L2Object referencing this action is: no-reference
+20/11/2024 1:16:45>Desenvolvedor>Admin(id: 9701 objId: 268439879 name: Sealed Magic Field Key count: 1)>Desenvolvedor>L2Object referencing this action is: no-reference
+20/11/2024 1:16:50>Desenvolvedor>Admin(id: 9701 objId: 268439879 name: Sealed Magic Field Key count: 1)>Desenvolvedor>L2Object referencing this action is: no-reference
+20/11/2024 1:16:51>Desenvolvedor>Admin(id: 9702 objId: 268439880 name: Caravaner's Remedy count: 1)>Desenvolvedor>L2Object referencing this action is: no-reference
+20/11/2024 1:17:15>Desenvolvedor>Buy(id: 57 objId: 268439881 name: Adena count: -1)>Karai>L2Object referencing this action is: Karai
+20/11/2024 1:17:15>Desenvolvedor>Buy(id: 9700 objId: 268439878 name: Water Dragon Claw count: 1)>Karai>L2Object referencing this action is: Karai
+20/11/2024 1:23:12>Desenvolvedor>Admin(id: 20000 count: 1 name: Sacrifice Helmet objId: 268439908)>no-target>L2Object referencing this action is: no-reference
+20/11/2024 1:23:17>Desenvolvedor>Admin(id: 20001 count: 1 name: Apella Plate Armor objId: 268439909)>no-target>L2Object referencing this action is: no-reference
+20/11/2024 1:23:57>Desenvolvedor>Admin(id: 20002 count: 1 name: Apella Gauntlet - Heavy Armor objId: 268439910)>no-target>L2Object referencing this action is: no-reference
+20/11/2024 1:24:00>Desenvolvedor>Admin(id: 20003 count: 1 name: Apella Solleret - Heavy Armor objId: 268439911)>no-target>L2Object referencing this action is: no-reference
+20/11/2024 2:03:54>Desenvolvedor>Admin(id: 30000 count: 1 name: Dynasty Gold Rapier objId: 268439872)>Desenvolvedor>L2Object referencing this action is: no-reference
+20/11/2024 2:13:44>Desenvolvedor>Admin(id: 30030 count: 1 name: Dynasty Gold Knife objId: 268439925)>Desenvolvedor>L2Object referencing this action is: no-reference
+20/11/2024 2:14:18>Desenvolvedor>Admin(id: 30025 count: 1 name: Dynasty Gold Phantom - Conversion objId: 268439926)>Desenvolvedor>L2Object referencing this action is: no-reference
+20/11/2024 2:14:25>Desenvolvedor>Admin(id: 30026 count: 1 name: Dynasty Gold Bow objId: 268439927)>Desenvolvedor>L2Object referencing this action is: no-reference
+20/11/2024 15:59:28>Desenvolvedor>Admin(id: 21000 count: 1 name: Infernal Epic Helmet objId: 268439861)>Desenvolvedor>L2Object referencing this action is: no-reference
+20/11/2024 15:59:34>Desenvolvedor>Admin(id: 21001 count: 1 name: Infernal Epic Plate Armor objId: 268439862)>Desenvolvedor>L2Object referencing this action is: no-reference
+20/11/2024 15:59:53>Desenvolvedor>Admin(id: 21002 count: 1 name: Infernal Epic Gauntlet - Heavy Armor objId: 268439863)>Desenvolvedor>L2Object referencing this action is: no-reference
+20/11/2024 15:59:55>Desenvolvedor>Admin(id: 21003 count: 1 name: Infernal Epic Solleret - Heavy Armor objId: 268439871)>Desenvolvedor>L2Object referencing this action is: no-reference
+20/11/2024 16:10:03>Desenvolvedor>Admin(id: 22000 count: 1 name: Red Dark Epic Helmet objId: 268439827)>Desenvolvedor>L2Object referencing this action is: no-reference
+20/11/2024 16:10:06>Desenvolvedor>Admin(id: 22001 count: 1 name: Red Dark Epic Plate Armor objId: 268439828)>Desenvolvedor>L2Object referencing this action is: no-reference
+20/11/2024 16:10:12>Desenvolvedor>Admin(id: 22002 count: 1 name: Red Dark Epic Gauntlet - Heavy Armor objId: 268439901)>Desenvolvedor>L2Object referencing this action is: no-reference
+20/11/2024 16:10:14>Desenvolvedor>Admin(id: 22003 count: 1 name: Red Dark Epic Solleret - Heavy Armor objId: 268439902)>Desenvolvedor>L2Object referencing this action is: no-reference
+20/11/2024 16:23:33>Desenvolvedor>Admin(id: 23000 count: 1 name: White Draconic Brigandine objId: 268439912)>no-target>L2Object referencing this action is: no-reference
+20/11/2024 16:23:43>Desenvolvedor>Admin(id: 23001 count: 1 name: White Draconic Leather Gloves - Light Armor objId: 268439913)>no-target>L2Object referencing this action is: no-reference
+20/11/2024 16:23:45>Desenvolvedor>Admin(id: 23002 count: 1 name: White Draconic Boots - Light Armor objId: 268439914)>no-target>L2Object referencing this action is: no-reference
+20/11/2024 16:25:08>Desenvolvedor>Buy(id: 6379 count: 1 name: Draconic Leather Armor objId: 268439920)>Desenvolvedor>L2Object referencing this action is: no-reference
+20/11/2024 16:25:08>Desenvolvedor>Buy(id: 6380 count: 1 name: Draconic Leather Gloves objId: 268439921)>Desenvolvedor>L2Object referencing this action is: no-reference
+20/11/2024 16:25:08>Desenvolvedor>Buy(id: 6381 count: 1 name: Draconic Leather Boots objId: 268439922)>Desenvolvedor>L2Object referencing this action is: no-reference
+20/11/2024 16:57:34>Desenvolvedor>Admin(id: 24000 count: 1 name: Imperial Crusader Helmet objId: 268439873)>Desenvolvedor>L2Object referencing this action is: no-reference
+20/11/2024 16:57:42>Desenvolvedor>Admin(id: 24001 count: 1 name: Imperial Crusader Breastplate objId: 268439874)>Desenvolvedor>L2Object referencing this action is: no-reference
+20/11/2024 16:57:48>Desenvolvedor>Admin(id: 24002 count: 1 name: Imperial Crusader Gaiters objId: 268439875)>Desenvolvedor>L2Object referencing this action is: no-reference
+20/11/2024 16:57:50>Desenvolvedor>Admin(id: 24003 count: 1 name: Imperial Crusader Gauntlets objId: 268439876)>Desenvolvedor>L2Object referencing this action is: no-reference
+20/11/2024 16:58:06>Desenvolvedor>Admin(id: 24003 count: 1 name: Imperial Crusader Gauntlets objId: 268439896)>Desenvolvedor>L2Object referencing this action is: no-reference
+20/11/2024 16:58:34>Desenvolvedor>Admin(id: 24004 count: 1 name: Imperial Crusader Boots objId: 268439897)>Desenvolvedor>L2Object referencing this action is: no-reference
+20/11/2024 17:25:58>Desenvolvedor>Admin(id: 10611 count: 1 name: Snow Fenrir Necklace objId: 268439991)>no-target>L2Object referencing this action is: no-reference
+20/11/2024 17:26:37>Desenvolvedor>Admin(id: 9882 count: 1 name: Black Hair Wolf Necklace objId: 268439994)>no-target>L2Object referencing this action is: no-reference
+20/11/2024 17:26:54>Desenvolvedor>Admin(id: 10163 count: 1 name: Wolf Collar objId: 268440005)>no-target>L2Object referencing this action is: no-reference
+20/11/2024 17:27:08>Desenvolvedor>Admin(id: 10163 count: 1 name: Wolf Collar objId: 268440006)>no-target>L2Object referencing this action is: no-reference
+20/11/2024 17:27:25>Desenvolvedor>Admin(id: 10307 count: 1 name: Great Snow Wolf Necklace objId: 268440008)>no-target>L2Object referencing this action is: no-reference
+20/11/2024 17:31:06>Desenvolvedor>Admin(id: 10309 count: 1 name: Red Dragon Bugle of Star objId: 268440022)>no-target>L2Object referencing this action is: no-reference
+20/11/2024 17:31:30>Desenvolvedor>Admin(id: 10308 count: 1 name: Red Dragon Bugle of Wind objId: 268440024)>no-target>L2Object referencing this action is: no-reference
+20/11/2024 17:34:28>Desenvolvedor>Admin(id: 4330 count: 1 name: Penitent's Manacles objId: 268440031)>Desenvolvedor>L2Object referencing this action is: no-reference
+20/11/2024 17:34:36>Desenvolvedor>Admin(id: 4330 objId: 268440031 name: Penitent's Manacles count: 1)>Desenvolvedor>L2Object referencing this action is: no-reference
+20/11/2024 17:34:38>Desenvolvedor>Admin(id: 4330 objId: 268440031 name: Penitent's Manacles count: 1)>Desenvolvedor>L2Object referencing this action is: no-reference
+20/11/2024 17:34:43>Desenvolvedor>Admin(id: 4350 count: 1 name: The Work of the ancient sculptor Berona objId: 268440037)>Desenvolvedor>L2Object referencing this action is: no-reference
+20/11/2024 17:34:46>Desenvolvedor>Admin(id: 4340 count: 1 name: Certificate of Approval to Create a Belt objId: 268440038)>Desenvolvedor>L2Object referencing this action is: no-reference
+20/11/2024 17:34:48>Desenvolvedor>Admin(id: 4350 objId: 268440037 name: The Work of the ancient sculptor Berona count: 1)>Desenvolvedor>L2Object referencing this action is: no-reference
+20/11/2024 17:49:59>Desenvolvedor>Admin(id: 4425 count: 1 name: Penitent's Manacles objId: 268439898)>no-target>L2Object referencing this action is: no-reference
+20/11/2024 18:58:50>Desenvolvedor>Admin(id: 2515 count: 50000 name: Food For Wolves objId: 268439945)>Desenvolvedor>L2Object referencing this action is: no-reference
+20/11/2024 18:59:12>Desenvolvedor>Destroy(id: 2515 objId: 268439945 name: Food For Wolves count: -15000)>no-target>L2Object referencing this action is: no-reference
+20/11/2024 18:59:17>Desenvolvedor>Destroy(id: 2515 objId: 268439945 name: Food For Wolves count: -3000)>null>L2Object referencing this action is: no-reference
+20/11/2024 18:59:20>Desenvolvedor>Destroy(id: 2515 objId: 268439945 name: Food For Wolves count: -25000)>null>L2Object referencing this action is: no-reference
+20/11/2024 19:00:49>Desenvolvedor>Admin(id: 10426 count: 1 name: Fenrir Necklace objId: 268439952)>Desenvolvedor>L2Object referencing this action is: no-reference
